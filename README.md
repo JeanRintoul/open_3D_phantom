@@ -27,5 +27,5 @@ Was bought on Amazon.
 
 ## What it looks like ## 
 
-(![]https://github.com/JeanRintoul/open_3D_phantom/blob/main/phantom_tank_design.jpg)
+![](https://github.com/JeanRintoul/open_3D_phantom/blob/main/phantom_tank_design.jpg)
 
