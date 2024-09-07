@@ -29,5 +29,5 @@ Was bought on Amazon.
 
 ## What it looks like ## 
 
-(![]([https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg](https://github.com/JeanRintoul/open_3D_phantom/blob/main/phantom_tank_design.jpg))
+(![]([https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg](https://github.com/JeanRintoul/open_3D_phantom/blob/main/phantom_tank_design.jpg)
 
