@@ -5,7 +5,7 @@ This repository contains information on how to make a tool to map electric and a
 ## 3D printed parts ## 
 | Part   | 3D Design |
 | ------ | ------    |
-| Extruder replacement | [LINK] (https://cad.onshape.com/documents/c26d502d413d033d4b3ac0d4/w/22c1be98b04c3ec5618dd425/e/8501e30dd13a2188c9875adf)
+| Extruder replacement | [Online CAD](https://cad.onshape.com/documents/c26d502d413d033d4b3ac0d4/w/22c1be98b04c3ec5618dd425/e/8501e30dd13a2188c9875adf)
 
 [Duck Duck Go](https://duckduckgo.com)
 
