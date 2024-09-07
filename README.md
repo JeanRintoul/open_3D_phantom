@@ -7,12 +7,9 @@ This repository contains information on how to make a tool to map electric and a
 | ------ | ------    |
 | Extruder replacement | [Online CAD](https://cad.onshape.com/documents/c26d502d413d033d4b3ac0d4/w/22c1be98b04c3ec5618dd425/e/8501e30dd13a2188c9875adf) | 
 | Tank | [Online CAD](https://cad.onshape.com/documents/de940802c5debb7927956670/w/0eafb5462b38484a75f4a591/e/29eb0c52ce4a6c62c408a1b8) | 
-| 4-pole dipole holder![image](https://github.com/user-attachments/assets/ce8f9169-6e02-4551-aed2-c7e53e4b4ad7)
-
-
-
-[Duck Duck Go](https://duckduckgo.com)
-
-
+| 4-pole dipole holder | [Online CAD](https://cad.onshape.com/documents/1eeb3cb2ec51b3a854ebf7cd/w/0953f5243c497a38f2535210/e/12b2bcbe4b8af360cbaa7180 ) |
+| Sensor pole | [Online CAD](https://cad.onshape.com/documents/399141fa859dda782afe8ed0/w/4720316f19c48b4cc3d80298/e/8c735331c88c7b93f436893a) |
 
 ## Thorlabs ## 
+| Part No.   | Description |
+| ------     | ------    |
