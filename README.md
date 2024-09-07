@@ -1,8 +1,6 @@
-# Open 3D phantom
+# Open 3D phantom # 
 
 This repository contains parts information on how to make a tool to map electric and acoustic fields in 3-dimensions at 0.1mm resolution using an off the shelf flsun q5 delta 3d printer, with some small modifications detailed below. 
-
-
 
 ## FL SUN Q5 3D DELTA PRINTER ## 
 Was bought on Amazon. 
@@ -29,5 +27,5 @@ Was bought on Amazon.
 
 ## What it looks like ## 
 
-(![]([https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg](https://github.com/JeanRintoul/open_3D_phantom/blob/main/phantom_tank_design.jpg)
+(![]https://github.com/JeanRintoul/open_3D_phantom/blob/main/phantom_tank_design.jpg)
 
