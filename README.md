@@ -19,10 +19,11 @@ Was bought on Amazon for $200.
 | RA360/M | Parallel Clamp for Ø1/2" Posts | 1 | 
 | RLA300/M | Dovetail Optical Rail, 300 mm | 4 | 
 | CL3 | Table Clamp | 6 |
-| RC1 | Dovetail Rail carrier | 1 | 
+| RC1 | Dovetail Rail carrier | 4 | 
 | MB3060/M | Aluminium Breadboard 300x600mm | 1 |
 | PH6 | ½” post holders | 4 |
 | TR20V/M | ½” optical post | 4 | 
+| TR4 | ½” optical post | 4 | 
 
 
 ## What it looks like ## 
