@@ -3,7 +3,7 @@
 This repository contains parts information on how to make a tool to map electric and acoustic fields in 3-dimensions at 0.1mm resolution using an off the shelf flsun q5 delta 3d printer, with some small modifications detailed below. 
 
 ## FL SUN Q5 3D DELTA PRINTER ## 
-Was bought on Amazon for $200. Dismantled the extruder to be replaced with our own 3D printed parts to hold an electrode or a hydrophone. 
+Was bought on Amazon for $200. Dismantled the extruder to be replaced with our own 3D printed parts to hold an electrode or a hydrophone. The printer can be controlled via G-code which is called via python. 
 
 ## 3D printed parts ## 
 | Part   | 3D Design |
